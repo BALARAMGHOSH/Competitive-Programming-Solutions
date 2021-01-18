@@ -1,2 +1,2 @@
 # Competitive-Programming-Solutions
-### My all CP slutions 
+My all CP slutions 
