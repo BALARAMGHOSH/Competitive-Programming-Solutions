@@ -1,2 +1,1 @@
-# Competitive-Programming-Solutions
-My all CP slutions 
+🔥🔥 My random competitive programming solutions (and other stuff) 
